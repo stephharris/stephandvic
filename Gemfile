@@ -4,5 +4,5 @@ source "https://rubygems.org"
 
 git_source(:github) {|stephandvic| "https://github.com/stephharris/stephandvic" }
 
-# gem "rails"
+gem "rails"
 gem "jekyll"
